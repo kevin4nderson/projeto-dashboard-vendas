@@ -7,23 +7,13 @@
 ## Descrição
 
 
-Escopo: Desenvolvimento de uma solução de 
-BI para responder a 5 perguntas estratégicas 
-de faturamento e eficiência logística.
+Escopo: Desenvolvimento de dashboard de BI para análise de faturamento, descontos e eficiência comercial.
 
 
-Tecnologias: Power BI (Power Query, DAX), 
-SQL para extração e Excel para saneamento de 
-dados.
+Tecnologias: Microsoft Power BI (Power Query, DAX) e Excel.
 
 
-Destaque Técnico: Implementação de limpeza 
-de dados e transformação (ETL) de múltiplas 
-fontes, criando métricas complexas em DAX 
-para análise de dispersão de descontos.
+Destaque Técnico: Tratamento e transformação de dados (ETL) e criação de métricas em DAX para análise de variação de descontos por subcategoria.
 
 
-Impacto: Identificação visual de 12.6 Mi em 
-vendas e descoberta de gargalos de 
-rentabilidade na categoria de "Tables", 
-permitindo ajustes em margens comerciais.
+Impacto: Identificação de ~12,6 Mi em vendas e de possíveis gargalos de rentabilidade na subcategoria “Tables”.
