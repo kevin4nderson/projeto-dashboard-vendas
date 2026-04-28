@@ -2,7 +2,7 @@
 
 ## Visualização
 
-![Dashboard](Captura de tela 2026-04-28 150634.png)
+![Dashboard](dashboard.png)
 
 ## Descrição
 
