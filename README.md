@@ -1,19 +1,27 @@
-# Dashboard de Vendas Globais
+## 📌 Sobre o projeto
+Desenvolvimento de um dashboard de BI no Power BI para análise de faturamento, descontos e eficiência comercial, com foco na geração de insights estratégicos para apoio à tomada de decisão.
 
-## Visualização
+## 🛠️ Tecnologias utilizadas
+- Power BI  
+- Power Query (ETL)  
+- DAX  
+- Excel  
 
-![Dashboard](dashboard.png)
+## 📈 Análises realizadas
+- Monitoramento de faturamento total (~12,6 Mi)  
+- Análise de impacto de descontos por subcategoria  
+- Avaliação de eficiência comercial  
+- Identificação de padrões de rentabilidade  
 
-## Descrição
+## 💡 Principais insights
+- Identificação de concentração de vendas relevante  
+- Detecção de possíveis gargalos de rentabilidade na subcategoria “Tables”  
+- Impacto dos descontos na performance comercial  
 
+## ⚙️ Destaque técnico
+- Tratamento e transformação de dados (ETL) com Power Query  
+- Criação de métricas em DAX para análise de variação de descontos  
 
-Escopo: Desenvolvimento de dashboard de BI para análise de faturamento, descontos e eficiência comercial.
-
-
-Tecnologias: Microsoft Power BI (Power Query, DAX) e Excel.
-
-
-Destaque Técnico: Tratamento e transformação de dados (ETL) e criação de métricas em DAX para análise de variação de descontos por subcategoria.
-
-
-Impacto: Identificação de ~12,6 Mi em vendas e de possíveis gargalos de rentabilidade na subcategoria “Tables”.
+## ▶️ Como visualizar o projeto
+1. Baixe o arquivo `Dashboard de Vendas Globais.pbix`
+3. Abra no Power BI Desktop
