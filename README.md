@@ -1,3 +1,7 @@
+# 📊 Dashboard de Vendas Globais
+
+![Dashboard](dashboard.png.png)
+
 ## 📌 Sobre o projeto
 Desenvolvimento de um dashboard de BI no Power BI para análise de faturamento, descontos e eficiência comercial, com foco na geração de insights estratégicos para apoio à tomada de decisão.
 
