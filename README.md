@@ -1,4 +1,5 @@
 # 📊 Dashboard de Vendas
+![Dashboard](dashboard.png)
 
 Dashboard desenvolvido no Microsoft Power BI para monitoramento de indicadores comerciais, permitindo a análise de faturamento, lucro, ticket médio, produtos mais vendidos, desempenho por categoria, evolução mensal das vendas e distribuição por região.
 
@@ -27,7 +28,3 @@ O projeto contempla:
 - Power Query
 - DAX
 - Modelagem de Dados
-
-## Dashboard
-
-![Dashboard](dashboard.png)
